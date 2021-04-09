@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shehanDe95
 - 👀 I’m interested in Mathematical Physics, Experimental Condensed Matter Physics and Nanophotonics.
 - 🌱 I’m currently learning Experimental Condensed Matter Physics
-- 💞️ I’m looking to collaborate on anything related to Physics related innovation. 
+- 💞️ I’m looking to collaborate on anything related to Physics and innovation. 
 - 📫 How to reach me desilvashehan95@gmail.com
 
 <!---
